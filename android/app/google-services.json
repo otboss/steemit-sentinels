@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008252581196",
+    "firebase_url": "https://steemitsentinels.firebaseio.com",
+    "project_id": "steemitsentinels",
+    "storage_bucket": "steemitsentinels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008252581196:android:f0e0c0921c3722b9",
+        "android_client_info": {
+          "package_name": "com.steemitsentinels.steemitsentinels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008252581196-pp65d0i1lohg3i9egp03em7uccsmfdv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steemitsentinels.steemitsentinels",
+            "certificate_hash": "3d89b70131dbff19cafda9a648883e65886f2c3a"
+          }
+        },
+        {
+          "client_id": "1008252581196-hg76h5q0fordsr2hv2mp0vpdu38q5u6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXW3a0TYs1CLE7BhnSkYLvo0E1lC4rQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008252581196-hg76h5q0fordsr2hv2mp0vpdu38q5u6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
