@@ -3,7 +3,7 @@
 A new Flutter project.
 
 Here is a link to a video demo:<br>
-https://www.youtube.com/watch?v=ROSEFAZ550s
+https://youtu.be/ROSEFAZ550s
 
 ## Getting Started
 
